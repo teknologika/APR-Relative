@@ -1,8 +1,8 @@
 {
   "Category": null,
   "Title": "APR Relative",
-  "Description": "iRacing Relative RA V2",
-  "Author": "Romainrob  - Modded by Dowo",
+  "Description": "",
+  "Author": "",
   "ScreenCount": 1.0,
   "InGameScreensIndexs": [
     0
@@ -11,7 +11,7 @@
   "MainPreviewIndex": 0,
   "IsOverlay": true,
   "Width": 522.0,
-  "Height": 290.0,
+  "Height": 285.0,
   "OverlaySizeWarning": false,
   "MetadataVersion": 2.0,
   "EnableOnDashboardMessaging": true,
